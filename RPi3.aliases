@@ -1,0 +1,6 @@
+[My Computer]
+My Computer = "192.168.56.1"
+
+[Raspberry Pi 3B]
+Raspberry Pi 3B = "192.168.0.104"
+
